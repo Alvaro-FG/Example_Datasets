@@ -1,0 +1,12 @@
+Date: 14/07/2022
+
+Glucose, Fructose, and Maltose (solvent: PBS from tabet in 500 mL water). All ca. 400 mM.
+
+Full factorial design> 3 factors, 5 levels (see .csv file for mixtures)
+3 replicates
+Laser power: 52 mW
+Laser excitation: 785nm
+Obj. 10x 0.25NA N PLAN inifinity corrected
+Detector temperature: -60 degC
+2 second integration time and 4 accumulations
+
